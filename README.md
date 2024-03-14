@@ -1,10 +1,6 @@
 ## Introduction
 This repository contains Python code for analyzing a dataset of Amazon reviews using Pandas, NumPy, Seaborn, Matplotlib, and TextBlob for sentiment analysis. The dataset is stored in a SQLite database and is read into a Pandas DataFrame for analysis. The code performs various tasks such as data cleaning, exploratory data analysis, and sentiment analysis.
 
-## Contents
-- `AmazonCustomerReviewsAnalysis.ipynb`: Jupyter Notebook containing the Python code.
-- `database.sqlite`: SQLite database file containing the Amazon reviews dataset.
-
 ## Dependencies
 Ensure you have the following Python packages installed:
 - pandas
